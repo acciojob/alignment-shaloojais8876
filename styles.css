@@ -20,44 +20,21 @@
 	width : 100%;
 
 }
-#t11{
+.left{
 	 border: 1px solid black;
 	text-align: left;
 
 }
-#t12{
+.center{
 	 border: 1px solid black;
 	text-align: center;
 }
-#t13{
+.right{
 	 border: 1px solid black;
 	text-align: right;
 }
-#t14{
-	 border: 1px solid black;
-}
-#t15{
-	 border: 1px solid black;
-	text-align: center;
+
 	
-}
-#t16{
-	 border: 1px solid black;
-	text-align: right;
-	
-}
-#t17{
-	 border: 1px solid black;
-	
-}
-#t18{
-	 border: 1px solid black;
-	text-align: center;
-	
-}
-#t19{
-	 border: 1px solid black;
-	text-align: right;
 	
 }
 #table-3{
